@@ -1,2 +1,2 @@
 # table-saw-station
-Sketchup plans for a table saw workstation
+Thanks to Curt Filipowski for the original plans.
